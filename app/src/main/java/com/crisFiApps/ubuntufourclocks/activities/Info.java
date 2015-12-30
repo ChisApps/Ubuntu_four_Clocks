@@ -111,7 +111,7 @@ public class Info extends Activity {
 			if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.HONEYCOMB) {
 				github.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TASK);
 			}
-			github.setData(Uri.parse("https://github.com/ChisApps/Ubuntu-Widgets-Clocks-Collection-for-Android"));
+			github.setData(Uri.parse("https://github.com/ChisApps/Ubuntu_four_Clocks"));
 			startActivity(github);
 			return true;
 		}
