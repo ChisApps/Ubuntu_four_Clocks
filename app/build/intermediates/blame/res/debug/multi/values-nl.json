@@ -1,0 +1,292 @@
+[
+    {
+        "outputFile": "C:\\Users\\Jorgefc82\\Desktop\\ProyectosAndroid\\UbuntuFourClocks\\app\\build\\intermediates\\res\\merged\\debug\\values-nl\\values-nl.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 116,
+                    "endOffset": 167
+                },
+                "from": {
+                    "file": "C:\\Users\\Jorgefc82\\Desktop\\ProyectosAndroid\\UbuntuFourClocks\\app\\build\\intermediates\\exploded-aar\\org.sufficientlysecure\\donations\\2.4\\res\\values-nl\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 187,
+                        "endColumn": 116,
+                        "endOffset": 299
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 172,
+                    "endColumn": 81,
+                    "endOffset": 249
+                },
+                "from": {
+                    "file": "C:\\Users\\Jorgefc82\\Desktop\\ProyectosAndroid\\UbuntuFourClocks\\app\\build\\intermediates\\exploded-aar\\org.sufficientlysecure\\donations\\2.4\\res\\values-nl\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 304,
+                        "endColumn": 81,
+                        "endOffset": 381
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 254,
+                    "endColumn": 59,
+                    "endOffset": 309
+                },
+                "from": {
+                    "file": "C:\\Users\\Jorgefc82\\Desktop\\ProyectosAndroid\\UbuntuFourClocks\\app\\build\\intermediates\\exploded-aar\\org.sufficientlysecure\\donations\\2.4\\res\\values-nl\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 386,
+                        "endColumn": 59,
+                        "endOffset": 441
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 314,
+                    "endColumn": 166,
+                    "endOffset": 476
+                },
+                "from": {
+                    "file": "C:\\Users\\Jorgefc82\\Desktop\\ProyectosAndroid\\UbuntuFourClocks\\app\\build\\intermediates\\exploded-aar\\org.sufficientlysecure\\donations\\2.4\\res\\values-nl\\values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 446,
+                        "endColumn": 166,
+                        "endOffset": 608
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 481,
+                    "endColumn": 52,
+                    "endOffset": 529
+                },
+                "from": {
+                    "file": "C:\\Users\\Jorgefc82\\Desktop\\ProyectosAndroid\\UbuntuFourClocks\\app\\build\\intermediates\\exploded-aar\\org.sufficientlysecure\\donations\\2.4\\res\\values-nl\\values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 613,
+                        "endColumn": 52,
+                        "endOffset": 661
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 534,
+                    "endColumn": 98,
+                    "endOffset": 628
+                },
+                "from": {
+                    "file": "C:\\Users\\Jorgefc82\\Desktop\\ProyectosAndroid\\UbuntuFourClocks\\app\\build\\intermediates\\exploded-aar\\org.sufficientlysecure\\donations\\2.4\\res\\values-nl\\values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 666,
+                        "endColumn": 98,
+                        "endOffset": 760
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 633,
+                    "endColumn": 79,
+                    "endOffset": 708
+                },
+                "from": {
+                    "file": "C:\\Users\\Jorgefc82\\Desktop\\ProyectosAndroid\\UbuntuFourClocks\\app\\build\\intermediates\\exploded-aar\\org.sufficientlysecure\\donations\\2.4\\res\\values-nl\\values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 765,
+                        "endColumn": 79,
+                        "endOffset": 840
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 713,
+                    "endColumn": 109,
+                    "endOffset": 818
+                },
+                "from": {
+                    "file": "C:\\Users\\Jorgefc82\\Desktop\\ProyectosAndroid\\UbuntuFourClocks\\app\\build\\intermediates\\exploded-aar\\org.sufficientlysecure\\donations\\2.4\\res\\values-nl\\values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 845,
+                        "endColumn": 109,
+                        "endOffset": 950
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 823,
+                    "endColumn": 82,
+                    "endOffset": 901
+                },
+                "from": {
+                    "file": "C:\\Users\\Jorgefc82\\Desktop\\ProyectosAndroid\\UbuntuFourClocks\\app\\build\\intermediates\\exploded-aar\\org.sufficientlysecure\\donations\\2.4\\res\\values-nl\\values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 955,
+                        "endColumn": 82,
+                        "endOffset": 1033
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 906,
+                    "endColumn": 167,
+                    "endOffset": 1069
+                },
+                "from": {
+                    "file": "C:\\Users\\Jorgefc82\\Desktop\\ProyectosAndroid\\UbuntuFourClocks\\app\\build\\intermediates\\exploded-aar\\org.sufficientlysecure\\donations\\2.4\\res\\values-nl\\values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1038,
+                        "endColumn": 167,
+                        "endOffset": 1201
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1074,
+                    "endColumn": 79,
+                    "endOffset": 1149
+                },
+                "from": {
+                    "file": "C:\\Users\\Jorgefc82\\Desktop\\ProyectosAndroid\\UbuntuFourClocks\\app\\build\\intermediates\\exploded-aar\\org.sufficientlysecure\\donations\\2.4\\res\\values-nl\\values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1206,
+                        "endColumn": 79,
+                        "endOffset": 1281
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1154,
+                    "endColumn": 52,
+                    "endOffset": 1202
+                },
+                "from": {
+                    "file": "C:\\Users\\Jorgefc82\\Desktop\\ProyectosAndroid\\UbuntuFourClocks\\app\\build\\intermediates\\exploded-aar\\org.sufficientlysecure\\donations\\2.4\\res\\values-nl\\values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1286,
+                        "endColumn": 52,
+                        "endOffset": 1334
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1207,
+                    "endColumn": 122,
+                    "endOffset": 1325
+                },
+                "from": {
+                    "file": "C:\\Users\\Jorgefc82\\Desktop\\ProyectosAndroid\\UbuntuFourClocks\\app\\build\\intermediates\\exploded-aar\\org.sufficientlysecure\\donations\\2.4\\res\\values-nl\\values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1339,
+                        "endColumn": 122,
+                        "endOffset": 1457
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1330,
+                    "endColumn": 108,
+                    "endOffset": 1434
+                },
+                "from": {
+                    "file": "C:\\Users\\Jorgefc82\\Desktop\\ProyectosAndroid\\UbuntuFourClocks\\app\\build\\intermediates\\exploded-aar\\org.sufficientlysecure\\donations\\2.4\\res\\values-nl\\values.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1462,
+                        "endColumn": 108,
+                        "endOffset": 1566
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1439,
+                    "endColumn": 69,
+                    "endOffset": 1504
+                },
+                "from": {
+                    "file": "C:\\Users\\Jorgefc82\\Desktop\\ProyectosAndroid\\UbuntuFourClocks\\app\\build\\intermediates\\exploded-aar\\org.sufficientlysecure\\donations\\2.4\\res\\values-nl\\values.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1571,
+                        "endColumn": 69,
+                        "endOffset": 1636
+                    }
+                }
+            }
+        ]
+    }
+]

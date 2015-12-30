@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/action_compartir" android:title="@string/action_share"
+        android:orderInCategory="100" android:showAsAction="always"
+        android:icon="@android:drawable/ic_menu_share"/>
+    <item android:id="@+id/action_valorar" android:title="@string/action_rating"
+        android:orderInCategory="100" android:showAsAction="never" />
+    <item android:id="@+id/action_masapps" android:title="@string/action_moreapps"
+    android:orderInCategory="100" android:showAsAction="never" />
+    <item android:id="@+id/action_github" android:title="@string/action_github"
+        android:orderInCategory="100" android:showAsAction="never" />
+    <item android:id="@+id/action_wallpapper" android:title="@string/action_setwallpapper"
+        android:orderInCategory="100" android:showAsAction="never" />
+</menu>

@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "C:\\Users\\Jorgefc82\\Desktop\\ProyectosAndroid\\UbuntuFourClocks\\app\\build\\intermediates\\res\\merged\\debug\\layout\\itemmenu.xml",
+        "source": "C:\\Users\\Jorgefc82\\Desktop\\ProyectosAndroid\\UbuntuFourClocks\\app\\src\\main\\res\\layout\\itemmenu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jorgefc82\\Desktop\\ProyectosAndroid\\UbuntuFourClocks\\app\\build\\intermediates\\res\\merged\\debug\\layout\\widgetred.xml",
+        "source": "C:\\Users\\Jorgefc82\\Desktop\\ProyectosAndroid\\UbuntuFourClocks\\app\\src\\main\\res\\layout\\widgetred.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jorgefc82\\Desktop\\ProyectosAndroid\\UbuntuFourClocks\\app\\build\\intermediates\\res\\merged\\debug\\layout\\donations__fragment_paypal.xml",
+        "source": "C:\\Users\\Jorgefc82\\Desktop\\ProyectosAndroid\\UbuntuFourClocks\\app\\build\\intermediates\\exploded-aar\\org.sufficientlysecure\\donations\\2.4\\res\\layout\\donations__fragment_paypal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jorgefc82\\Desktop\\ProyectosAndroid\\UbuntuFourClocks\\app\\build\\intermediates\\res\\merged\\debug\\layout\\donations__fragment.xml",
+        "source": "C:\\Users\\Jorgefc82\\Desktop\\ProyectosAndroid\\UbuntuFourClocks\\app\\build\\intermediates\\exploded-aar\\org.sufficientlysecure\\donations\\2.4\\res\\layout\\donations__fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jorgefc82\\Desktop\\ProyectosAndroid\\UbuntuFourClocks\\app\\build\\intermediates\\res\\merged\\debug\\layout\\donations__fragment_bitcoin.xml",
+        "source": "C:\\Users\\Jorgefc82\\Desktop\\ProyectosAndroid\\UbuntuFourClocks\\app\\build\\intermediates\\exploded-aar\\org.sufficientlysecure\\donations\\2.4\\res\\layout\\donations__fragment_bitcoin.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jorgefc82\\Desktop\\ProyectosAndroid\\UbuntuFourClocks\\app\\build\\intermediates\\res\\merged\\debug\\layout\\widget.xml",
+        "source": "C:\\Users\\Jorgefc82\\Desktop\\ProyectosAndroid\\UbuntuFourClocks\\app\\src\\main\\res\\layout\\widget.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jorgefc82\\Desktop\\ProyectosAndroid\\UbuntuFourClocks\\app\\build\\intermediates\\res\\merged\\debug\\layout\\donations__fragment_flattr.xml",
+        "source": "C:\\Users\\Jorgefc82\\Desktop\\ProyectosAndroid\\UbuntuFourClocks\\app\\build\\intermediates\\exploded-aar\\org.sufficientlysecure\\donations\\2.4\\res\\layout\\donations__fragment_flattr.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jorgefc82\\Desktop\\ProyectosAndroid\\UbuntuFourClocks\\app\\build\\intermediates\\res\\merged\\debug\\layout\\widgetblue.xml",
+        "source": "C:\\Users\\Jorgefc82\\Desktop\\ProyectosAndroid\\UbuntuFourClocks\\app\\src\\main\\res\\layout\\widgetblue.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jorgefc82\\Desktop\\ProyectosAndroid\\UbuntuFourClocks\\app\\build\\intermediates\\res\\merged\\debug\\layout\\donations__fragment_google.xml",
+        "source": "C:\\Users\\Jorgefc82\\Desktop\\ProyectosAndroid\\UbuntuFourClocks\\app\\build\\intermediates\\exploded-aar\\org.sufficientlysecure\\donations\\2.4\\res\\layout\\donations__fragment_google.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jorgefc82\\Desktop\\ProyectosAndroid\\UbuntuFourClocks\\app\\build\\intermediates\\res\\merged\\debug\\layout\\info.xml",
+        "source": "C:\\Users\\Jorgefc82\\Desktop\\ProyectosAndroid\\UbuntuFourClocks\\app\\src\\main\\res\\layout\\info.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jorgefc82\\Desktop\\ProyectosAndroid\\UbuntuFourClocks\\app\\build\\intermediates\\res\\merged\\debug\\layout\\widgetyellow.xml",
+        "source": "C:\\Users\\Jorgefc82\\Desktop\\ProyectosAndroid\\UbuntuFourClocks\\app\\src\\main\\res\\layout\\widgetyellow.xml"
+    }
+]

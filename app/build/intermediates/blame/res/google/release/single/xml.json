@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Jorgefc82\\Desktop\\ProyectosAndroid\\UbuntuFourClocks\\app\\build\\intermediates\\res\\merged\\google\\release\\xml\\widget.xml",
+        "source": "C:\\Users\\Jorgefc82\\Desktop\\ProyectosAndroid\\UbuntuFourClocks\\app\\src\\main\\res\\xml\\widget.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jorgefc82\\Desktop\\ProyectosAndroid\\UbuntuFourClocks\\app\\build\\intermediates\\res\\merged\\google\\release\\xml\\widgetyellow.xml",
+        "source": "C:\\Users\\Jorgefc82\\Desktop\\ProyectosAndroid\\UbuntuFourClocks\\app\\src\\main\\res\\xml\\widgetyellow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jorgefc82\\Desktop\\ProyectosAndroid\\UbuntuFourClocks\\app\\build\\intermediates\\res\\merged\\google\\release\\xml\\widgetred.xml",
+        "source": "C:\\Users\\Jorgefc82\\Desktop\\ProyectosAndroid\\UbuntuFourClocks\\app\\src\\main\\res\\xml\\widgetred.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jorgefc82\\Desktop\\ProyectosAndroid\\UbuntuFourClocks\\app\\build\\intermediates\\res\\merged\\google\\release\\xml\\widgetblue.xml",
+        "source": "C:\\Users\\Jorgefc82\\Desktop\\ProyectosAndroid\\UbuntuFourClocks\\app\\src\\main\\res\\xml\\widgetblue.xml"
+    }
+]

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Relojes &amp; fondos Ubuntu</string>
+    <string name="widget_name">Widget reloj Ubuntu 4x3</string>
+	<string name="widgetred_name">Widget reloj rojo Ubuntu 4x3</string>
+	<string name="widgetyellow_name">Widget reloj amarillo Ubuntu 4x3</string>
+	<string name="widgetblue_name">Widget reloj azul Ubuntu 4x3</string>	
+    <string name="info_text">Esto es una aplicación de widgets, no es una aplicación común. Puede aplicar las siguientes esferas de Ubuntu para su escritorio seleccionándolas directamente desde su cajón de widgets.</string>
+    <string name="action_share">Compartir aplicación</string>
+    <string name="action_setwallpapper">Establecer fondo Ubuntu</string>
+    <string name="action_rating">Valorar aplicación</string>
+    <string name="set_wallpaper_ok">Fondo de pantalla establecido con éxito</string>
+    <string name="no_set_wallpaper">El fondo de pantalla Ubuntu no se ha podido establecer</string>
+    <string name="text_share">Te aconsejo esta app de widgets con 4 relojes con temática Ubuntu</string>
+    <string name="text_dialog_share">Compartir vía...</string>
+    <string name="action_moreapps">Más de ChisApps</string>
+    <string name="action_github">Código en GitHub</string>
+    <string name="action_donation">Donar al desarrollador</string>
+    <string name="unable_app_rating">No se puede acceder a la app en GooglePlay en este momento</string>
+    <string name="unable_chisapps">No es posible acceder a más apps de ChisApps en este momento</string>
+    <string-array name="donation_google_catalog_values">
+        <item>1 Euro</item>
+        <item>2 Euros</item>
+        <item>3 Euros</item>
+        <item>5 Euros</item>
+        <item>10 Euros</item>
+    </string-array>
+</resources>

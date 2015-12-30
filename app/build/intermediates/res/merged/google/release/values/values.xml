@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="donation_google_catalog_values">
+        <item>1 Euro</item>
+        <item>2 Euros</item>
+        <item>3 Euros</item>
+        <item>5 Euros</item>
+        <item>10 Euros</item>
+    </string-array>
+    <item name="AnalogClock" type="id">false</item>
+    <item name="AnalogClockblue" type="id">false</item>
+    <item name="AnalogClockred" type="id">false</item>
+    <item name="AnalogClockyellow" type="id">false</item>
+    <item name="Widget" type="id">false</item>
+    <item name="Widgetblue" type="id">false</item>
+    <item name="Widgetred" type="id">false</item>
+    <item name="Widgetyellow" type="id">false</item>
+    <string name="action_donation">Donate to Developer</string>
+    <string name="action_github">Sources in GitHub</string>
+    <string name="action_moreapps">More of ChisApps</string>
+    <string name="action_rating">Ratting App</string>
+    <string name="action_setwallpapper">Set Ubuntu Wallpapper</string>
+    <string name="action_share">Share App</string>
+    <string name="app_name">Ubuntu Clocks &amp; wallpapper</string>
+    <string name="donations__alert_dialog_no_browser">No browser was found to open a website!</string>
+    <string name="donations__alert_dialog_title">Error occurred</string>
+    <string name="donations__bitcoin">Bitcoin</string>
+    <string name="donations__bitcoin_description">Send any amount of bitcoin to the developer. Press and hold button to copy address.</string>
+    <string name="donations__bitcoin_send_bitcoin_button">Send bitcoin!</string>
+    <string name="donations__bitcoin_toast_copy">Bitcoin address has been copied to the clipboard!</string>
+    <string name="donations__button_close">Close</string>
+    <string name="donations__description">Do you find this application useful?\nSupport it\'s development by sending a donation to the developer!</string>
+    <string name="donations__flattr">Flattr</string>
+    <string name="donations__flattr_description">Flattr takes 10 % as a monthly fee!</string>
+    <string name="donations__google_android_market">Google Play Store</string>
+    <string name="donations__google_android_market_description">Google takes 30 % off every donation!</string>
+    <string name="donations__google_android_market_donate_button">Donate!</string>
+    <string name="donations__google_android_market_not_supported">In-App Donations are not supported. Is Google Play Store installed correctly?</string>
+    <string name="donations__google_android_market_not_supported_title">In-App Donations are not supported.</string>
+    <string name="donations__google_android_market_text">How much?</string>
+    <string name="donations__paypal">PayPal</string>
+    <string name="donations__paypal_description">You can choose how much you want to donate after clicking the button!</string>
+    <string name="donations__thanks_dialog">Thanks for donating!\nI really appreciate this!</string>
+    <string name="donations__thanks_dialog_title">Thanks!</string>
+    <string name="info_text">This is a widget aplication, this isn´t regular application. The following Ubuntu widgets can be selected directly from the widgets drawer for apply in your home screen.</string>
+    <string name="no_set_wallpaper">Could not set the Ubuntu wallpaper</string>
+    <string name="set_wallpaper_ok">Ubuntu wallpaper has been set ok!</string>
+    <string name="text_dialog_share">Share vía...</string>
+    <string name="text_share">I invite you to try this app about clocks widgets inspired on the Ubuntu themed</string>
+    <string name="unable_app_rating">Unable to find GooglePlay app in this moment</string>
+    <string name="unable_chisapps">Unable to find more apps of ChisApps in this moment</string>
+    <string name="widget_name">Ubuntu default clock widget 4x3</string>
+    <string name="widgetblue_name">Ubuntu blue clock widget 4x3</string>
+    <string name="widgetred_name">Ubuntu red clock widget 4x3</string>
+    <string name="widgetyellow_name">Ubuntu yellow clock widget 4x3</string>
+</resources>

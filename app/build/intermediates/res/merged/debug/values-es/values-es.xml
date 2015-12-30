@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_github">Código de la app en GitHub</string>
+    <string name="action_moreapps">Ver más aplicaciones de ChisApps</string>
+    <string name="action_rating">Valorar aplicación</string>
+    <string name="action_setwallpapper">Establecer fondo de escritorio Ubuntu</string>
+    <string name="action_share">Compartir aplicación</string>
+    <string name="app_name">Relojes &amp; fondos Ubuntu</string>
+    <string name="info_text">Esto es una aplicación de widgets, no es una aplicación común. Puede aplicar las siguientes esferas de Ubuntu para su escritorio seleccionándolas directamente desde su cajón de widgets.</string>
+    <string name="no_set_wallpaper">El fondo de pantalla Ubuntu no se ha podido establecer</string>
+    <string name="set_wallpaper_ok">Fondo de pantalla establecido con éxito</string>
+    <string name="text_dialog_share">Compartir vía...</string>
+    <string name="text_share">Te aconsejo esta app de widgets con 4 relojes con temática Ubuntu</string>
+    <string name="widget_name">Widget reloj Ubuntu 4x3</string>
+    <string name="widgetblue_name">Widget reloj azul Ubuntu 4x3</string>
+    <string name="widgetred_name">Widget reloj rojo Ubuntu 4x3</string>
+    <string name="widgetyellow_name">Widget reloj amarillo Ubuntu 4x3</string>
+</resources>

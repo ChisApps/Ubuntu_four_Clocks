@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="Widget">false</item>
+	<item type="id" name="Widgetblue">false</item>
+	<item type="id" name="Widgetred">false</item>
+	<item type="id" name="Widgetyellow">false</item>
+    <item type="id" name="AnalogClock">false</item>
+    <item type="id" name="AnalogClockblue">false</item>
+    <item type="id" name="AnalogClockred">false</item>
+    <item type="id" name="AnalogClockyellow">false</item>	
+</resources>

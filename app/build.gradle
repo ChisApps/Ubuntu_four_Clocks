@@ -1,0 +1,30 @@
+apply plugin: 'com.android.application'
+android {
+    compileSdkVersion 23
+    buildToolsVersion "23.0.2"
+    defaultConfig {
+        applicationId "com.crisFiApps.ubuntufourclock"
+        minSdkVersion 8
+        targetSdkVersion 23
+        versionCode 5
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+    productFlavors {
+        google {
+            buildConfigField "boolean", "DONATIONS_GOOGLE", "true"
+        }
+    }
+}
+
+repositories {
+    jcenter()
+}
+
+dependencies {
+    compile 'org.sufficientlysecure:donations:2.4'
+}
